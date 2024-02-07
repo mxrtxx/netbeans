@@ -12,6 +12,6 @@ public class Tarea_4_3_2 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Hola Mundo Pepi");
+        System.out.println("Hola Mundo");
     }
 }
